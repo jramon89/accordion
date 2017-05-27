@@ -24,7 +24,7 @@ class Test extends Component{
 
 		return(
 			<Layout
-				title="Test">
+				title="Accordion component">
 				<div>
 					<Accordion data={items}/>
 				</div>				
